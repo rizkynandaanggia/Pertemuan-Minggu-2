@@ -3,7 +3,8 @@
 class Program
 {
     static void Main(string[] args)
-    {
+    {   
+        // bagian perulangan while
         while (true)
         {
             Console.WriteLine("=== KALKULATOR SEDERHANA ===");

@@ -1,0 +1,15 @@
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\net6.0\CalculatorConsoleApplication.exe
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\net6.0\CalculatorConsoleApplication.deps.json
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\net6.0\CalculatorConsoleApplication.runtimeconfig.json
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\net6.0\CalculatorConsoleApplication.dll
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\bin\Debug\net6.0\CalculatorConsoleApplication.pdb
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.AssemblyInfo.cs
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.dll
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\refint\CalculatorConsoleApplication.dll
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.pdb
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\CalculatorConsoleApplication.genruntimeconfig.cache
+C:\Users\legion\source\repos\CalculatorConsoleApplication\CalculatorConsoleApplication\obj\Debug\net6.0\ref\CalculatorConsoleApplication.dll
